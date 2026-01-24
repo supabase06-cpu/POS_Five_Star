@@ -1,0 +1,46 @@
+╔════════════════════════════════════════════════════════════════╗
+║         FIVE STAR CHICKEN POS - QUICK INSTALLATION            ║
+╚════════════════════════════════════════════════════════════════╝
+
+📥 INSTALLATION STEPS:
+
+1. Double-click: FiveStarChickenPOS_Setup_1.0.3.exe
+
+2. See "Windows protected your PC"?
+   ✓ Click "More info"
+   ✓ Click "Run anyway"
+   (This is normal - the app is safe)
+
+3. Click "Next" in the installer wizard
+
+4. Click "Install"
+
+5. Wait for installation to complete
+
+6. Click "Finish"
+
+7. App launches automatically! ✓
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 UPDATING:
+
+Just run the new installer file - your data is saved automatically!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+❓ NEED HELP?
+
+If you see "Windows protected your PC":
+→ Click "More info" then "Run anyway"
+
+If installation fails:
+→ Right-click installer → "Run as administrator"
+
+If app won't start:
+→ Restart your computer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Version: 1.0.3
+System: Windows 10/11 (64-bit)

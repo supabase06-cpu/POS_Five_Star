@@ -1,0 +1,13 @@
+# Logo Placeholder
+
+To add your logo:
+
+1. Convert your logo to a black and white PNG image
+2. Resize to 400px width (height will adjust automatically)  
+3. Save as 'logo.png' in this assets folder
+4. The logo will automatically appear on printed invoices
+
+For now, invoices will print with text-only headers.
+
+You can use the existing LOGO.svg file in the project root as a starting point.
+Convert it to PNG format using any image editor or online converter.
