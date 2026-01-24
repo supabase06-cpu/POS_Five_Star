@@ -12,6 +12,11 @@
 .swiftpm/
 migrate_working_dir/
 
+# Environment files (keep secrets safe)
+.env
+.env.local
+.env.production
+
 # IntelliJ related
 *.iml
 *.ipr
@@ -43,3 +48,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+.env 
