@@ -1,11 +1,11 @@
 
 # Five Star Chicken POS Releases
 
-**Latest Release:** v1.0.34
+**Latest Release:** v1.0.35
 
 ## Download Links:
 
-* **Latest Installer (MSIX):** [FiveStarChickenPOS_v1.0.34_Signed.msix](https://github.com/supabase06-cpu/POS_Five_Star/raw/master/FiveStarChickenPOS_v1.0.34_Signed.msix)
+* **Latest Installer (MSIX):** [FiveStarChickenPOS_v1.0.35_Signed.msix](https://github.com/supabase06-cpu/POS_Five_Star/raw/master/FiveStarChickenPOS_v1.0.35_Signed.msix)
 * *(Click the link above to download directly)*
 
 ## Installation:
@@ -16,9 +16,9 @@
 
 ## Release Info:
 
-* **Version:** 1.0.34
-* **Build:** 34
-* **Released:** 2026-01-24 17:30:01 UTC
+* **Version:** 1.0.35
+* **Build:** 35
+* **Released:** 2026-01-25 12:38:17 UTC
 * **Platform:** Windows (x64)
 
 ---
